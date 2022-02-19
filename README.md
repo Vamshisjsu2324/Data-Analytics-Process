@@ -15,5 +15,5 @@ learning models like Logistic regression, Random forest, Support Vector Machine,
 Neural Networks, and Decision Trees have been built in this Project. All the mentioned models
 gave excellent results in detecting credit card fraud transactions. The performance of these
 models has been evaluated using different metrics. Among these models, the ANN model has
-given the highest accuracy of 99.8% and Precision of 99.76% with a low False Positive rate of
+given the highest accuracy of 99.8% and Precision of 99.76% with a lowest False Positive rate of
 0.11%, So ANN can be used for detecting fraudulent credit card transactions.
